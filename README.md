@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Primeira alteração diretea pelo próprio GitHub.
 
 Usando "Git Pull" dessa vez.
+
+Usando "Git Push" só que dessa vez remotamente levando pro GitHub
